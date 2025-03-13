@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary theme color (Used for pressed state) -->
+    <color name="colorPrimary">#6200EE</color>
+
+    <!-- Accent color (Used for selected state) -->
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Highlight color for today's date -->
+    <color name="colorToday">#FFD700</color>
+
+    <!-- Default text color -->
+    <color name="colorTextPrimary">#000000</color>
+
+    <!-- Secondary text color (Disabled/Inactive text) -->
+    <color name="colorTextSecondary">#888888</color>
+</resources>
